@@ -8,18 +8,18 @@ The method of identifying or validating a person based on their distinct biologi
 2. What Is The Process of Biometric Authentication?
 Typically, biometric authentication consists of three steps:
 
-<li> Admission
+a) Admission
  An individual's biometric data is collected and stored by the system upon enrollment. For future use, this data is transformed into a digital format known as a biometric template and 
- safely kept in a database.</li> 
+ safely kept in a database.
  
- <li> Confirmation
+ b) Confirmation
  The user's biometric information is scanned once more when they try to access a system or resource. Then, in order to confirm the person's identification, the system compares the just 
- acquired biometric data with the previously saved biometric template.</li>
+ acquired biometric data with the previously saved biometric template.
 
- <li> Verification
+ c) Verification
  The system allows access if the biometric information matches the template that is saved. Access is refused in the event that there is neither a match nor a notable departure from the 
  template.
- Due to the enormous difficulty of copying or stealing biometric features, the process is quick, easy, and secure.</li>
+ Due to the enormous difficulty of copying or stealing biometric features, the process is quick, easy, and secure.
 
 3. Biometric Authentication Types
 In IT security, a variety of biometric authentication techniques are employed, each with specific benefits and applications:
